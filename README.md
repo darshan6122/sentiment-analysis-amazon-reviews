@@ -26,12 +26,12 @@ This repository contains my learning project for sentiment analysis. I explored 
    git clone https://github.com/darshan6122/sentiment-analysis-amazno-reviews.git
    cd sentiment-analysis-learning-project
 
-2. Set up your environment:
+3. Set up your environment:
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
 
-3. Open the Jupyter Notebooks to view or run the experiments.
+4. Open the Jupyter Notebooks to view or run the experiments.
 
 ## ✅ Requirements
 - Python 3.9+
