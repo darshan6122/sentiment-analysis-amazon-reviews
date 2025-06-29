@@ -23,7 +23,7 @@ This repository contains my learning project for sentiment analysis. I explored 
 ## ⚙️ How to Use
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/sentiment-analysis-learning-project.git
+   git clone https://github.com/darshan6122/sentiment-analysis-amazno-reviews.git
    cd sentiment-analysis-learning-project
 
 2. Set up your environment:
